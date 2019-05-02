@@ -9,5 +9,11 @@ public class Maven3Test {
 	{
 		System.out.println("This is test3");
 	}
+	
+	@Test
+	public void gitTest2()
+	{
+		System.out.println("This is gitTest2");
+	}
 
 }
