@@ -15,5 +15,11 @@ public class Maven1Test {
 	{
 		System.out.println("This is git test");
 	}
+	
+	@Test
+	public void gitBranchTest()
+	{
+		System.out.println("This is git test");
+	}
 
 }
